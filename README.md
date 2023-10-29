@@ -1,2 +1,1 @@
-# virtual-keyboard
-Simple Virtual Keyboard
+# Virtual Keyboard
